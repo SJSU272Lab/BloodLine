@@ -16,3 +16,5 @@ Expected Outcomes: The end users here are the Regulator,Blood Camp,Blood Test Ce
             -->Blood bank can commit to the Block chain when the send the blood to the hospital.
             -->Hospital when it has blood can add a transaction block when they give the blood to the receiver.
             -->A transaction once commited on block chain cannot be tampered.
+
+URL of BloodLine : http://ec2-54-153-22-112.us-west-1.compute.amazonaws.com:8080/index.html
