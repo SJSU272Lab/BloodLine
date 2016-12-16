@@ -51,6 +51,6 @@ The end users here are the Regulator,Blood Camp,Blood Test Center , Blood Sepera
 
 ##Deliverables
 
-[Presentation](https://www.youtube.com/watch?v=w9AoPzP6nug) <br/>
+[Demo Video](https://www.youtube.com/watch?v=w9AoPzP6nug) <br/>
 [Project Report](https://github.com/SJSU272Lab/BloodLine/blob/master/Project%20Report_Team%2022.pdf)
 
