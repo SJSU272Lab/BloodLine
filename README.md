@@ -1,4 +1,4 @@
-# Bloodline
+# [Bloodline] (http://ec2-54-153-22-112.us-west-1.compute.amazonaws.com:8080)
 
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/logo.jpeg" height="16%" width="17%" align="left">
 
