@@ -10,7 +10,7 @@ Blood is one of the most important essentials of human life. In near future, we 
 
 Bloodline helps conquer this issue using blockchain technology. This helps is tracking the blood from the time it is donated, till it is transfused. When the blood is donated, the blood camp that takes the blood will create a new block that will store the blood.These details will be on the lines of the blood sample template create by the Regulating Agency. Now when the blood is sent from blood camp to blood test center and from test center to seperation and so on till it reached the one who receives blood, every transaction details are stored in the block chain which cannot be tampered.
 
-##User Stories
+##Application Use Cases
 
 Who is BloodLine for?
 Well, currently BloodLine is a demonstration of how the blood management system could be when blockchain technologies are employed. You can check out the Live Stats, open a block and see hash values. You can also check out the trace of the blood smaples right from it's template creation to it's consumption in a hospital.
@@ -18,45 +18,39 @@ Since all of that involves various entities, here is a list of User Stories that
 
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Screen%20Shot%202016-12-12%20at%2011.45.19%20PM.png" height="80%" width="80%" align="center"> <br/> <br/>
 
-As a Blood Donor representative:
+As a Regulator at a Donation Camp:
 
---You can collect blood samples from the donors
---Create the Blood Sample Template.
---Update the Sample Template with details of the blood.
---Transfer the samples to Blood Camps.
+--Create Blood Sample Template.
+--Update Sample Template with details of the blood.
+--Transfer amples to Blood Camps.
 
 As a Blood Camp representative:
 
---You can receive the samples from the Blood Donation camps.
---Perform tests on the samples.
---Update the sample template with details of the blood.
---Update that the blood sample is scrapped.
+--Receive the samples from the Blood Donation camps.
+--Update sample template with details of the blood.
 --Transfer the samples to the Blood Test Centres.
 
 As a Blood Test Centre representative:
 
---You can receive blood from the Blood Camps.
---You can perform furhter tests on the samples.
---Update the sample template with details of the blood.
---Update that the blood sample is scrapped.
---Transfer the samples for Blood Separation.
+--Receive blood from the Blood Camps.
+--Update sample template with details of the blood.
+--Transfer samples for Blood Separation.
 
 As a Blood Seperation representative:
 
---You can receive blood from the Blood Test Centres.
---You can separate the blood plasma from the blood.
+--Receive blood from the Blood Test Centres.
+--Separate the blood plasma from the blood.
 --Transfer the samples to Blood Banks.
 
 As a Blood Bank representative:
 
---You can receive blood from the Blood Test Centres.
+--Receive blood from the Blood Test Centres.
 --Transfer the samples to Hospitals.
 
 As a Hospital representative:
 
---You can receive blood from the Blood Test Centres.
+--Receive blood from the Blood Test Centres.
 --Update that the blood sample is consumed.
---Update that the blood sample is scrapped.
 
 
 ##Expected Outcomes
