@@ -44,3 +44,8 @@ Since all of that involves various entities, here is a list of User Stories that
 [Demo Video](https://www.youtube.com/watch?v=w9AoPzP6nug) <br/>
 [Project Report](https://github.com/SJSU272Lab/BloodLine/blob/master/Project%20Report_Team%2022.pdf)
 
+
+## Team Members
+
+| [![Gagan Jain](https://avatars.githubusercontent.com/gaganjain-sjsu?s=100)<br /><sub>Gagan Jain</sub>](https://github.com/gaganjain-sjsu)<br /> | [![Apoorva Maheshwari](https://avatars.githubusercontent.com/apoorva1012?s=100)<br /><sub>Apoorva Maheshwari </sub>](https://github.com/apoorva1012)<br /> | [![Akshay Agarwal](https://avatars.githubusercontent.com/Akshay-agarwal?s=100)<br /><sub>Akshay Agarwal</sub>](https://github.com/Akshay-agarwal)<br />| [![Aditya KLN](https://avatars.githubusercontent.com/FalconFalcon?s=100)<br /><sub>Aditya KLN</sub>](https://github.com/FalconFalcon)<br />|
+| :---: | :---: | :---: | :---: |
