@@ -36,19 +36,6 @@ Since all of that involves various entities, here is a list of User Stories that
 ###As a Hospital representative:
 --Receive blood from the Blood Test Centres.<br/>--Update that the blood sample is consumed.
 
-
-##Expected Outcomes
-
-The end users here are the Regulator,Blood Camp,Blood Test Center , Blood Seperation Centers,Blood Bank & Hospitals. So each of the user can only make an entry which will be stored on the block chain when they have the blood sample sent to them or else not.
-
-            -->Regulator should be able to create a template for the blood donation.
-            -->Blood Camps can take the details of the donor and commit a transaction.
-            -->Blood Test Center can also edit the details as per the test and commit transaction.
-            -->Once Blood is moved from Test Center to Test Seperation only then Blood Seperation center can commit and send it to the Blood Bank.
-            -->Blood bank can commit to the Block chain when the send the blood to the hospital.
-            -->Hospital when it has blood can add a transaction block when they give the blood to the receiver.
-            -->A transaction once commited on block chain cannot be tampered.
-
 ##Deliverables
 
 [Demo Video](https://www.youtube.com/watch?v=w9AoPzP6nug) <br/>
