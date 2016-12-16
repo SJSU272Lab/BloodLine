@@ -2,12 +2,9 @@
 
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/logo.jpeg" height="8%" width="8%" align="left">
 
-Blood is one of the most important essentials of human life. In near future, we might see artificial blood substitution for human blood, but until then blood donors are the safest and most important source of blood. <br/><br/>
-
-##Problem
-The journey of blood from a donor to a receiver is a complex landscape process. The blood after donated is tested, stored, transported and finally transfused. But when the blood is donated in many places the details of the sample are written using pen and paper. This introdces some margin of error, which could eventually be catastrophic for the blood receiver. <br/><br/>
-<img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Chain.png" height="100%" width="100%" > <br/>
-
+Blood is one of the most important essentials of human life. In near future, we might see artificial bloodsubstituting for human blood, but till then blood donors are the safest and most important source of blood. <br/><br/>
+The journey of blood from a donor to a receiver is a complex landscape process. The blood after donated is tested, stored, transported and finally transfused. But when the blood is donated in many places the details of the sample are written using pen and paper. <br/><br/>
+<img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/1.gif" height="100%" width="100%" > <br/>
 
 ##Proposed Solution 
 
@@ -24,22 +21,22 @@ Since all of that involves various entities, here is a list of User Stories that
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Screen%20Shot%202016-12-12%20at%2011.45.19%20PM.png" height="100%" width="100%" align="center"> <br/> <br/>
 
 ###As a Regulator at a Donation Camp:
---Create Blood Sample Template.<br/>--Update Sample Template with details of the blood.<br/>--Transfer amples to Blood Camps.<br/>
+--Create Blood Sample Template.<br/>--Update Sample Template with details of the blood.<br/>--Transfer sample to Blood Camp.<br/>
 
 ###As a Blood Camp representative:
---Receive the samples from the Blood Donation camps.<br/>--Update sample template with details of the blood.<br/>--Transfer the samples to the Blood Test Centres.
+--Receive the Blood Sample Template from the Regulator.<br/>--Update template with donor's blood details.<br/>--Transfer the sample to the Blood Test Centres.
 
 ###As a Blood Test Centre representative:
---Receive blood from the Blood Camps.<br/>--Update sample template with details of the blood.<br/>--Transfer samples for Blood Separation.
+--Receive Updated Blood Sample from the Blood Camp.<br/>--Update Sample with details of the blood after testing.<br/>--Transfer the samples to Blood Separation center.
 
 ###As a Blood Seperation representative:
---Receive blood from the Blood Test Centres.<br/>--Separate the blood plasma from the blood.<br/>--Transfer the samples to Blood Banks.
+--Receive Updated Blood Sample from the Blood Test Centre.<br/>--Separate the blood plasma from the blood.<br/>--Transfer the samples to Blood Bank.
 
 ###As a Blood Bank representative:
---Receive blood from the Blood Test Centres.<br/>--Transfer the samples to Hospitals.
+--Receive Updated Blood Sample from the Blood Separation Center.<br/>--Transfer the sample to Hospital.
 
 ###As a Hospital representative:
---Receive blood from the Blood Test Centres.<br/>--Update that the blood sample is consumed.
+--Receive Blood from the Blood Bank.<br/>--Consume Blood.
 
 ##Deliverables
 
