@@ -19,10 +19,7 @@ Since all of that involves various entities, here is a list of User Stories that
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Screen%20Shot%202016-12-12%20at%2011.45.19%20PM.png" height="80%" width="80%" align="center"> <br/> <br/>
 
 ###As a Regulator at a Donation Camp:
-
---Create Blood Sample Template.
---Update Sample Template with details of the blood.
---Transfer amples to Blood Camps.
+--Create Blood Sample Template.<br/>--Update Sample Template with details of the blood.<br/>--Transfer amples to Blood Camps.<br/>
 
 ###As a Blood Camp representative:
 
