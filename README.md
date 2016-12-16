@@ -41,8 +41,10 @@ Since all of that involves various entities, here is a list of User Stories that
 
 ##Deliverables
 
+[Project URL](http://ec2-54-153-22-112.us-west-1.compute.amazonaws.com:8080/) <br />
 [Demo Video](https://www.youtube.com/watch?v=w9AoPzP6nug) <br/>
 [Project Report](https://github.com/SJSU272Lab/BloodLine/blob/master/Project%20Report_Team%2022.pdf)
+
 
 
 ## Team Members
