@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/logo.jpeg" height="8%" width="8%" align="left">
 
-Blood is one of the most important essentials of human life. In near future, we might see artificial bloodsubstituting for human blood, but till then blood donors are the safest and most important source of blood. <br/><br/><br/>The journey of blood from a donor to a receiver is a complex landscape process. The blood after donated is tested, stored, transported and finally transfused. But when the blood is donated in many places the details of the sample are written using pen and paper. <br/><br/>
+Blood is one of the most important essentials of human life. In near future, we might see artificial bloodsubstituting for human blood, but till then blood donors are the safest and most important source of blood. <br/>The journey of blood from a donor to a receiver is a complex landscape process. The blood after donated is tested, stored, transported and finally transfused. But when the blood is donated in many places the details of the sample are written using pen and paper. <br/><br/>
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Chain.png" height="100%" width="100%" > <br/>
 ##Proposed Solution 
 
