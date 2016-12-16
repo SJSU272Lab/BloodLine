@@ -22,32 +22,19 @@ Since all of that involves various entities, here is a list of User Stories that
 --Create Blood Sample Template.<br/>--Update Sample Template with details of the blood.<br/>--Transfer amples to Blood Camps.<br/>
 
 ###As a Blood Camp representative:
-
---Receive the samples from the Blood Donation camps.
---Update sample template with details of the blood.
---Transfer the samples to the Blood Test Centres.
+--Receive the samples from the Blood Donation camps.<br/>--Update sample template with details of the blood.<br/>--Transfer the samples to the Blood Test Centres.
 
 ###As a Blood Test Centre representative:
-
---Receive blood from the Blood Camps.
---Update sample template with details of the blood.
---Transfer samples for Blood Separation.
+--Receive blood from the Blood Camps.<br/>--Update sample template with details of the blood.<br/>--Transfer samples for Blood Separation.
 
 ###As a Blood Seperation representative:
-
---Receive blood from the Blood Test Centres.
---Separate the blood plasma from the blood.
---Transfer the samples to Blood Banks.
+--Receive blood from the Blood Test Centres.<br/>--Separate the blood plasma from the blood.<br/>--Transfer the samples to Blood Banks.
 
 ###As a Blood Bank representative:
-
---Receive blood from the Blood Test Centres.
---Transfer the samples to Hospitals.
+--Receive blood from the Blood Test Centres.<br/>--Transfer the samples to Hospitals.
 
 ###As a Hospital representative:
-
---Receive blood from the Blood Test Centres.
---Update that the blood sample is consumed.
+--Receive blood from the Blood Test Centres.<br/>--Update that the blood sample is consumed.
 
 
 ##Expected Outcomes
