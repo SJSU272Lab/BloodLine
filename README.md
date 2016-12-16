@@ -2,8 +2,8 @@
 
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/logo.jpeg" height="16%" width="17%" align="left">
 
-Blood is one of the most important essentials of human life. In near future, we might see artificial bloodsubstituting for human blood, but till then blood donors are the safest and most important source of blood. The journey of blood from a donor to a receiver is a complex landscape process. The blood after donated is tested, stored, transported and finally transfused. But when the blood is donated in many places the details of the sample are written using pen and paper. <br/><br/><br/>
-<img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Chain.png" height="100%" width="100%" > <br/> <br/>
+Blood is one of the most important essentials of human life. In near future, we might see artificial bloodsubstituting for human blood, but till then blood donors are the safest and most important source of blood. The journey of blood from a donor to a receiver is a complex landscape process. The blood after donated is tested, stored, transported and finally transfused. But when the blood is donated in many places the details of the sample are written using pen and paper. <br/><br/>
+<img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Chain.png" height="100%" width="100%" > <br/>
 ##Proposed Solution 
 
 <img src="http://www.realdolmen.com/sites/default/files/uploads/BlockChain-Animated-Proof.gif" height="100%" width="100%"> <br/> <br/>
@@ -18,36 +18,36 @@ Since all of that involves various entities, here is a list of User Stories that
 
 <img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Screen%20Shot%202016-12-12%20at%2011.45.19%20PM.png" height="80%" width="80%" align="center"> <br/> <br/>
 
-As a Regulator at a Donation Camp:
+###As a Regulator at a Donation Camp:
 
 --Create Blood Sample Template.
 --Update Sample Template with details of the blood.
 --Transfer amples to Blood Camps.
 
-As a Blood Camp representative:
+###As a Blood Camp representative:
 
 --Receive the samples from the Blood Donation camps.
 --Update sample template with details of the blood.
 --Transfer the samples to the Blood Test Centres.
 
-As a Blood Test Centre representative:
+###As a Blood Test Centre representative:
 
 --Receive blood from the Blood Camps.
 --Update sample template with details of the blood.
 --Transfer samples for Blood Separation.
 
-As a Blood Seperation representative:
+###As a Blood Seperation representative:
 
 --Receive blood from the Blood Test Centres.
 --Separate the blood plasma from the blood.
 --Transfer the samples to Blood Banks.
 
-As a Blood Bank representative:
+###As a Blood Bank representative:
 
 --Receive blood from the Blood Test Centres.
 --Transfer the samples to Hospitals.
 
-As a Hospital representative:
+###As a Hospital representative:
 
 --Receive blood from the Blood Test Centres.
 --Update that the blood sample is consumed.
