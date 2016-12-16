@@ -1,0 +1,36 @@
+{
+  "name": "Bloodline",
+  "version": "0.7.3",
+  "description": "A Node.js web application that demonstrates utilizing IBM Blockchain JS to call REST APIs on the blockchain.",
+  "main": "app.js",
+  "licence": "Apache-2.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.0.2",
+    "cf-deployment-tracker-client": "*",
+    "cookie-parser": "1.0.1",
+    "cors": "2.5.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "fs": "",
+    "hfc": "^0.6.5",
+    "request": "^2.79.0",
+    "x509": ""
+  },
+  "engines": {
+    "node": "^6.9.1",
+    "npm": "^3.10.8"
+  },
+  "devDependencies": {
+    "gulp-concat": "*",
+    "gulp-minify-css": "1.2.1",
+    "gulp-rename": "*",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.4"
+  }
+}

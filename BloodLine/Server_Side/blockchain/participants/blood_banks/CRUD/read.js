@@ -1,0 +1,25 @@
+'use strict';
+
+let tracing = require(__dirname+'/../../../../tools/traces/trace.js');
+let participants = require(__dirname+'/../../participants_info.js');
+
+let read = function(req, res)
+{
+    tracing.create('ENTER', 'GET blockchain/participants/blood_banks', {});
+
+    if(!participants.hasOwnProperty('blood_banks'))
+	{
+        res.status(404);
+        let error = {};
+        error.message = 'Unable to retrieve blood_banks';
+        error.error = true;
+        tracing.create('ERROR', 'GET blockchain/participants/blood_banks', error);
+        res.send(error);
+    }
+    else
+	{
+        tracing.create('EXIT', 'GET blockchain/participants/blood_banks', {'result':participants.blood_banks});
+        res.send({'result':participants.blood_banks});
+    }
+};
+exports.read = read;
