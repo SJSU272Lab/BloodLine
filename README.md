@@ -15,7 +15,7 @@ Who is BloodLine for?
 Well, currently BloodLine is a demonstration of how the blood management system could be when blockchain technologies are employed. You can check out the Live Stats, open a block and see hash values. You can also check out the trace of the blood smaples right from it's template creation to it's consumption in a hospital.
 Since all of that involves various entities, here is a list of User Stories that will shed some light on how can you use BloodLine.
 
-<img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Chain.png" height="80%" width="80%" align="center"> <br/> <br/>
+<img src="https://github.com/SJSU272Lab/BloodLine/blob/master/BloodLine/Client_Side/Images/Screen%20Shot%202016-12-12%20at%2011.45.19%20PM.png" height="80%" width="80%" align="center"> <br/> <br/>
 
 As a Blood Donor representative:
 
